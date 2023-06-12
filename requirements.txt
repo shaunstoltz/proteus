@@ -1,0 +1,7 @@
+openai
+tiktoken==0.4.0
+tqdm
+langcodes
+backoff
+language_data
+python-dotenv==1.0.0
